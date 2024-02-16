@@ -1,7 +1,7 @@
 # Ranking_universidades_del_mundo
 Analisis de las universidades del mundo, sobre el numero de estudiantes, estudiantes internacionales y el staff por estudiante
 
-<p> En este reportsitorio podemos visualizar principalmente los datos en excel del ranking de las universidades del mundo.</p>
+<p> En este repositorio podemos visualizar principalmente los datos en excel del ranking de las universidades del mundo.</p>
   <p>Se inicia el analisis usando Jupyter Notebook para proceder con la ETL (extrraccíon, transformación, carga) y procede con un EDA (Analisis de Datos Exploratorios)</p>
   Creacion de Insights como: 
   <ol>
