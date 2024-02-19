@@ -17,7 +17,7 @@ comencé a generar insights de esos datos y aún más cuando los exporte a Power
 Bi.
 </p>
 
-<img src="insights_ranking_universidades.png" width="450" height="200"/>
+<img src="insights_ranking_universidades.png" width="450" height="300"/>
 
 <p>
   La información tan relevante que me estaba perdiendo por no analizar los
